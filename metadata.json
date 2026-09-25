@@ -1,0 +1,6 @@
+{
+  "name": "Iron Horse Rush: Wild West Train Runner",
+  "description": "3D Endless Runner inspired by classic arcade runners featuring a steam locomotive racing across procedural desert canyons, dodging oncoming trains, leaping over barricades, and collecting gold bounties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
